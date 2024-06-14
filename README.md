@@ -1,4 +1,4 @@
 # First-project
 This is my first Git repository
 <br>
-Author- Kirti Anand
+Author- Kirti Anand (Kec Katihar)
